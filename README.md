@@ -34,7 +34,7 @@ B.Tech - Artificial Intelligence and Data Science
 - Programming: `Python`, `SQL`
 - Web: `HTML`, `Responsive Web Designing`
 - Data Tools: `Power BI`
-- Libraries: `OpenCV`, `CNN`, `RNN`, `LSTM`, `NLP`, `ASR`
+- Libraries: `OpenCV`, `CNN`, `RNN`,`NLP`, `ASR`
 
 ---
 
@@ -52,7 +52,7 @@ The bot analyzes resumes, generates questions, scores responses, and provides fe
 
 ## 🏅 Certifications
 
-- ✅ Responsive Web Designing *(Infosys Springboard)*
+- ✅ Responsive Web Designing *(FreeCodeCamp)*
 - ✅ Database Management System *(Infosys Springboard)*
 - ✅ Introduction to AI *(Infosys Springboard)*
 - ✅ Advanced Learning Algorithms *(Coursera)*

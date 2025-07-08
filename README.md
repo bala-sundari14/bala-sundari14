@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Balasundari S!
 
-🎓 AI & Data Science Student | 💻 Python Developer | 📊 Data Analyst | 🧠 AI Enthusiast  
+🎓 AI & Data Science Student at National Engineering College | 📊 Aspiring Data Analyst | 🧠 AI Enthusiast  
 
 ---
 

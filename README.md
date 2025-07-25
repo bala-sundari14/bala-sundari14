@@ -78,7 +78,7 @@ The bot analyzes resumes, generates questions, scores responses, and provides fe
 
 ## 🎯 Career Objective
 
-> A dedicated and enthusiastic fresher seeking a challenging position in a reputable organization where I can utilize my skills and knowledge to contribute to the company’s success, while continuously learning and growing professionally.
+> A passionate data science student with hands-on knowledge in machine learning and data analysis. Aiming to apply skills to solve real-world problems and contribute to meaningful projects in a forward-thinking company.
 
 ---
 
